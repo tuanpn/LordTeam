@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - 
+  - Animal1
+  - Animal2
+  - Animal3
+  - Animal4
+  - Animal5
+  - Animal6
+  - Animal7
+  - Animal8
+  - 
+  - AnimalStand
+  - Animals
+  - Lock
+  - 
+  - 
+  - GUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1726606913
+    locked: 0
+  - name: MapObject
+    uniqueID: 596602553
+    locked: 0
+  - name: 
+    uniqueID: 1994197323
+    locked: 0
+  - name: Animal0
+    uniqueID: 2217023371
+    locked: 0
+  - name: Animal1
+    uniqueID: 3512418773
+    locked: 0
+  - name: Animal2
+    uniqueID: 1526193709
+    locked: 0
+  - name: Animal3
+    uniqueID: 2069674943
+    locked: 0
+  - name: Animal4
+    uniqueID: 1034741251
+    locked: 0
+  - name: Animal5
+    uniqueID: 1737347505
+    locked: 0
+  - name: Animal6
+    uniqueID: 3628020777
+    locked: 0
+  - name: Animal7
+    uniqueID: 3335726725
+    locked: 0
+  - name: Animal8
+    uniqueID: 2226049999
+    locked: 0
+  - name: Animal9
+    uniqueID: 2863874899
+    locked: 0
+  - name: Lock
+    uniqueID: 1605677547
+    locked: 0
+  - name: 
+    uniqueID: 4002293721
+    locked: 0
+  - name: 
+    uniqueID: 379023779
+    locked: 0
+  - name: GUI
+    uniqueID: 4220218869
+    locked: 0
+  - name: UI
+    uniqueID: 3869390437
+    locked: 0

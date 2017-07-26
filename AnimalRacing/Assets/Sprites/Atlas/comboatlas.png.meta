@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 94ce3946649a84b4289fafdb3524aea6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: comboatlas
+    21300002: comboatlas_0
+    21300004: comboatlas_1
+    21300006: comboatlas_2
+    21300008: comboatlas_3
+    21300010: comboatlas_4
+    21300012: comboatlas_5
+    21300014: comboatlas_6
+    21300016: comboatlas_7
+    21300018: comboatlas_8
+    21300020: comboatlas_9
+    21300022: comboatlas_10
+    21300024: comboatlas_11
+    21300026: comboatlas_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: comboatlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 183
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 288
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 22
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 68
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 372
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 74
+        width: 179
+        height: 5
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 7
+        width: 317
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 22
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 22
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 22
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 22
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboatlas_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 7
+        width: 246
+        height: 13
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

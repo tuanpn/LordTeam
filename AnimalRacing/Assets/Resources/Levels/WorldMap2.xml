@@ -1,0 +1,196 @@
+<AnimalRacing>
+	<Level value="16">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="7" name="Pig"/>
+		<Animal value="0" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+
+	<Level value="17">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="5" name="Pig"/>
+		<Animal value="2" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="18">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="4" name="Pig"/>
+		<Animal value="3" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="19">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="1" name="Pig"/>
+		<Animal value="6" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="20">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="7" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="21">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="4" name="Pig"/>
+		<Animal value="2" name="Fox"/>
+		<Animal value="1" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="22">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="3" name="Pig"/>
+		<Animal value="2" name="Fox"/>
+		<Animal value="2" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="23">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="2" name="Pig"/>
+		<Animal value="2" name="Fox"/>
+		<Animal value="3" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="24">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="2" name="Fox"/>
+		<Animal value="5" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="25">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="0" name="Fox"/>
+		<Animal value="7" name="Giraffe"/>
+		<Animal value="0" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="26">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="4" name="Pig"/>
+		<Animal value="1" name="Fox"/>
+		<Animal value="1" name="Giraffe"/>
+		<Animal value="1" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="27">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="3" name="Pig"/>
+		<Animal value="1" name="Fox"/>
+		<Animal value="1" name="Giraffe"/>
+		<Animal value="2" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="28">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="1" name="Fox"/>
+		<Animal value="2" name="Giraffe"/>
+		<Animal value="4" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="29">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="0" name="Fox"/>
+		<Animal value="2" name="Giraffe"/>
+		<Animal value="5" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+	
+	<Level value="30">
+		<Animal value="0" name="hedgehog"/>
+		<Animal value="0" name="Monkey"/>
+		<Animal value="0" name="Pig"/>
+		<Animal value="0" name="Fox"/>
+		<Animal value="0" name="Giraffe"/>
+		<Animal value="7" name="Panda"/>
+		<Animal value="0" name="Rhino"/>
+		<Animal value="0" name="Tiger"/>
+		<Animal value="0" name="Elephant"/>
+		<Animal value="0" name="Lion"/>
+	</Level>
+</AnimalRacing>

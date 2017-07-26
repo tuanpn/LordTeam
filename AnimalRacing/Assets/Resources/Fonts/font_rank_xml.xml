@@ -1,0 +1,12 @@
+<BitmapFontBapk>
+	<Letter x="0" y="0" width="41" height="46" yoffset="34" xadvance="42" letter="0"/>
+	<Letter x="120" y="46" width="29" height="45" yoffset="34" xadvance="30" letter="1"/>
+	<Letter x="42" y="0" width="39" height="45" yoffset="34" xadvance="40" letter="2"/>
+	<Letter x="82" y="91" width="37" height="45" yoffset="35" xadvance="38" letter="3"/>
+	<Letter x="41" y="94" width="40" height="44" yoffset="35" xadvance="41" letter="4"/>
+	<Letter x="82" y="0" width="38" height="45" yoffset="35" xadvance="39" letter="5"/>
+	<Letter x="41" y="47" width="40" height="46" yoffset="34" xadvance="41" letter="6"/>
+	<Letter x="82" y="46" width="37" height="44" yoffset="35" xadvance="38" letter="7"/>
+	<Letter x="0" y="94" width="40" height="46" yoffset="34" xadvance="41" letter="8"/>
+	<Letter x="0" y="47" width="40" height="46" yoffset="34" xadvance="41" letter="9"/>
+</BitmapFontBapk>

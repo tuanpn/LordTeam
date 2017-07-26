@@ -1,0 +1,17 @@
+<BitmapFontBapk>
+	<Letter x="0" y="102" width="32" height="37" yoffset="44" xadvance="30" letter="0"/>
+	<Letter x="97" y="36" width="23" height="36" yoffset="44" xadvance="21" letter="1"/>
+	<Letter x="33" y="32" width="31" height="36" yoffset="44" xadvance="29" letter="2"/>
+	<Letter x="96" y="76" width="29" height="36" yoffset="45" xadvance="27" letter="3"/>
+	<Letter x="0" y="32" width="32" height="35" yoffset="45" xadvance="30" letter="4"/>
+	<Letter x="65" y="76" width="30" height="36" yoffset="45" xadvance="28" letter="5"/>
+	<Letter x="65" y="38" width="31" height="37" yoffset="44" xadvance="29" letter="6"/>
+	<Letter x="33" y="107" width="29" height="35" yoffset="45" xadvance="27" letter="7"/>
+	<Letter x="65" y="0" width="31" height="37" yoffset="44" xadvance="29" letter="8"/>
+	<Letter x="33" y="69" width="31" height="37" yoffset="44" xadvance="29" letter="9"/>
+	<Letter x="35" y="0" width="18" height="20" yoffset="65" xadvance="16" letter=","/>
+	<Letter x="121" y="36" width="17" height="37" yoffset="43" xadvance="15" letter="l"/>
+	<Letter x="0" y="68" width="32" height="33" yoffset="48" xadvance="30" letter="e"/>
+	<Letter x="0" y="0" width="34" height="31" yoffset="49" xadvance="32" letter="v"/>
+	<Letter x="97" y="0" width="28" height="35" yoffset="45" xadvance="26" letter="L"/>
+</BitmapFontBapk>

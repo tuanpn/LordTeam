@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 78141c77816b6284188f1e0d3df95997
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animalracingatlas3
+    21300002: animalracingatlas3_0
+    21300004: animalracingatlas3_1
+    21300006: animalracingatlas3_2
+    21300008: animalracingatlas3_3
+    21300010: animalracingatlas3_4
+    21300012: animalracingatlas3_5
+    21300014: animalracingatlas3_6
+    21300016: animalracingatlas3_7
+    21300018: animalracingatlas3_8
+    21300020: animalracingatlas3_9
+    21300022: animalracingatlas3_10
+    21300024: animalracingatlas3_11
+    21300026: animalracingatlas3_12
+    21300028: animalracingatlas3_13
+    21300030: animalracingatlas3_14
+    21300032: animalracingatlas3_15
+    21300034: animalracingatlas3_16
+    21300036: animalracingatlas3_17
+    21300038: animalracingatlas3_18
+    21300040: animalracingatlas3_19
+    21300042: animalracingatlas3_20
+    21300044: animalracingatlas3_21
+    21300046: animalracingatlas3_22
+    21300048: animalracingatlas3_23
+    21300050: animalracingatlas3_24
+    21300052: animalracingatlas3_25
+    21300054: animalracingatlas3_26
+    21300056: animalracingatlas3_27
+    21300058: animalracingatlas3_28
+    21300060: animalracingatlas3_29
+    21300062: animalracingatlas3_30
+    21300064: animalracingatlas3_31
+    21300066: animalracingatlas3_32
+    21300068: animalracingatlas3_33
+    21300070: animalracingatlas3_34
+    21300072: animalracingatlas3_35
+    21300074: animalracingatlas3_36
+    21300076: animalracingatlas3_37
+    21300078: animalracingatlas3_38
+    21300080: animalracingatlas3_39
+    21300082: animalracingatlas3_40
+    21300084: animalracingatlas3_41
+    21300086: animalracingatlas3_42
+    21300088: animalracingatlas3_43
+    21300090: animalracingatlas3_44
+    21300092: animalracingatlas3_45
+    21300094: animalracingatlas3_46
+    21300096: animalracingatlas3_47
+    21300098: animalracingatlas3_51
+    21300100: animalracingatlas3_53
+    21300102: animalracingatlas3_54
+    21300104: animalracingatlas3_56
+    21300106: animalracingatlas3_57
+    21300108: animalracingatlas3_58
+    21300110: animalracingatlas3_59
+    21300112: animalracingatlas3_60
+    21300114: animalracingatlas3_61
+    21300116: animalracingatlas3_62
+    21300118: animalracingatlas3_63
+    21300120: animalracingatlas3_67
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: WP8
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: animalracingatlas3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 918
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 930
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 930
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 880
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 953
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 202
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 847
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 871
+        width: 156
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 880
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 292
+        height: 284
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 834
+        width: 161
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 809
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 784
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 775
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 720
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 710
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 716
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 631
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 704
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 657
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 631
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 639
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 644
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_24
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 644
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_25
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 639
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 630
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 561
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 592
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 573
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_30
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 573
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_31
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 550
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_32
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 550
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 422
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 553
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_35
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 492
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 484
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 484
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 494
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_39
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 461
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_40
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 461
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 403
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 403
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 395
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 395
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_45
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 372
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_46
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 372
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 353
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_53
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 343
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_54
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 283
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 284
+        width: 202
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_57
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 284
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 284
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_59
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 283
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 422
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 10
+        width: 422
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_62
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 192
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_63
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 101
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalracingatlas3_67
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 10
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
